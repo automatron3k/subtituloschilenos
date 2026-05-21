@@ -23,20 +23,22 @@ Porque sí, porque quería probar si funcionaba, porque tenía ganas de hacerlo.
 ## Cómo funciona
 
 ```
-Archivo de subtítulos (.srt / .vtt)
+Buscas por nombre / URL de IMDb o Letterboxd
+    ↓
+El sistema localiza y descarga el subtítulo original (.srt / .vtt)
     ↓
 Claude Opus 4.7+ (motor de traducción)
     ↓
 Base de datos (modismos, refranes, memes pop)
     ↓
-Subtítulo en español chileno
+Subtítulo en español chileno — listo para descargar
     ↓
 Revisión comunitaria + feedback WhatsApp
 ```
 
-1. Subes (o buscas por URL de IMDb / Letterboxd) el subtítulo fuente
-2. Claude lo traduce usando el algoritmo de interpretación desarrollado + criterios de tono
-3. El resultado se monta en nuestra base de datos y se distribuye a los principales motores de búsqueda de subitutlos online
+1. Buscas por nombre o URL de IMDb / Letterboxd
+2. El sistema encuentra el subtítulo, Claude lo traduce con los criterios de tono chileno
+3. El resultado queda en el catálogo y se distribuye a los principales motores de búsqueda de subtítulos online
 4. La comunidad propone correcciones vía web o WhatsApp
 
 ---
